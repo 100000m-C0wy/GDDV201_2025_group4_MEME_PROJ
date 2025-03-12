@@ -1,0 +1,1 @@
+Adding words to MJsFileContent so Unity will see the folder because Unity will not commit empty files or folders.
